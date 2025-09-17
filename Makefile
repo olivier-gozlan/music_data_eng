@@ -9,3 +9,8 @@ pyenv virtualenv 3.10.12 music-env
 
 # Make the virtual env local
 pyenv local music-env
+
+# Git commands
+git add .
+git commit -m "Updated Makefile"
+git push origin main
