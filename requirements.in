@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+requests
+google-cloud-bigquery
+loguru
+google-cloud-storage
+dbt-core
+dbt-bigquery
+apache-airflow-providers-google
+fastapi
+uvicorn
+airflow
+pyspark
