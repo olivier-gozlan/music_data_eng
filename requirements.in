@@ -11,5 +11,5 @@ dbt-bigquery
 apache-airflow-providers-google
 fastapi
 uvicorn
-airflow
+apache-airflow
 pyspark
